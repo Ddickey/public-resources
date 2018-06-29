@@ -1,0 +1,10 @@
+# Compiled python
+*.pyc
+*.pyenv
+
+# iPython notebook
+*.ipynb_checkpoints
+
+# Mac OS X system files
+.DS_Store
+.idea
